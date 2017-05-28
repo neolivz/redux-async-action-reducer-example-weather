@@ -1,7 +1,7 @@
-# Item Card
+# redux-async-action-reducer example Weather Card
 
 ## Introduction
-The project contain Item Card redux application with testing suit and test cases (see NOTE).
+The project contain Weather Card redux application with testing suit and test cases (see NOTE).
 
 ## Tech Stack
 * react
@@ -36,4 +36,4 @@ yarn test
 ```
 
 ## Info
-Additional information can be found in `Weather.md` and `DevDiary.md`
+Additional information can be found in `Weather.md`
