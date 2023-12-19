@@ -13,7 +13,7 @@
     "es6-promise": "^4.1.0",
     "express": "^4.15.2",
     "font-awesome": "^4.7.0",
-    "jimp": "^0.2.27",
+    "jimp": "^0.3.1",
     "localforage": "^1.5.0",
     "material-ui": "^0.17.4",
     "moment": "^2.18.1",
